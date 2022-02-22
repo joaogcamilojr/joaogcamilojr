@@ -13,7 +13,7 @@
 
 #### I'm a Full-Stack Developer working in Varginha, Brazil.
 
-- 🔭 I’m currently working at [**Wizzer Imóveis**](https://www.wizzer.com.br)
+- 🔭 I’m currently working at home for myself
 - 🌱 I’m currently learning about **databases** and **data science**
 - 💬 Ask me about anything and we can get the answers
 
