@@ -11,7 +11,7 @@
 ![Azure](https://img.shields.io/badge/Azure-Beginner-informational)
 ![AWS](https://img.shields.io/badge/AWS-Beginner-important)
 
-#### I'm a Full-Stack Developer working in Varginha, Brazil.
+#### I'm a Full-Stack Developer living in Três Corações, Brazil.
 
 - 🔭 I’m currently working at home for myself
 - 🌱 I’m currently learning about **databases** and **data science**
